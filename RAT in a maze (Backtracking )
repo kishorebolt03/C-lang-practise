@@ -5,7 +5,7 @@ backtracking */
 // Maze size 
 #define N 5 
 #define bool int
-#define true 11
+#define true 1
 #define false 0
 
 int check[N][N] = 
